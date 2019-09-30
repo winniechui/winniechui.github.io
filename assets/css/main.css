@@ -2384,6 +2384,9 @@
 
             }
 
+.image.small img {
+        width: 65%;
+}
 /* profiel  */
 
 section.profiel {
